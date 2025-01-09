@@ -17,6 +17,7 @@ Welcome to **a chit-chat with junko**, a fun chat system where you can talk to J
 ## Credits
 
 **Made by**: ph4ntomcode
+
 **BGM**: https://www.youtube.com/watch?v=7x95tWw9kc0 by: Binaria (JP)
 
 ## Contact
