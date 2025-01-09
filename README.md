@@ -1,4 +1,4 @@
-# Café com Junko
+# Chat-with-Junko
 
 Welcome to **a chit-chat with junko**, a fun chat system where you can talk to Junko Enoshima from *Danganronpa*. Get ready to hear her responses filled with.... Chaos... ahahahahahahahahahahahahahahaahhaahahahahahahahahahahaha(ok i stop now)
 
